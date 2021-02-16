@@ -8,7 +8,7 @@ Outcomes to predict can be the Remaining Useful Life (RUL) in days, weeks, month
 Time series data from machine sensors can be analyzed and trained with LSTM (Long-Short-Term-Memory) Neural Network structures, that have kind of a memory function.
 <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilRo9S2KfRjI/v1/1000x-1.jpg" width="700">
 
-####### Image Source: https://www.bloomberg.com/news/articles/2020-09-21/rolls-royce-hits-17-year-low-with-plan-to-raise-3-2-billion
+Image Source: https://www.bloomberg.com/news/articles/2020-09-21/rolls-royce-hits-17-year-low-with-plan-to-raise-3-2-billion
 
 ### 1. Data
 
